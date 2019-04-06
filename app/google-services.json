@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "40647434120",
+    "firebase_url": "https://travel-world-cf15f.firebaseio.com",
+    "project_id": "travel-world-cf15f",
+    "storage_bucket": "travel-world-cf15f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40647434120:android:4eac668a1e4d779b",
+        "android_client_info": {
+          "package_name": "com.example.usuario.travelworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40647434120-1o4pnecq1bjt7gdg1p885r7cho6cnev3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.usuario.travelworld",
+            "certificate_hash": "e1de31b54078522417b7a71d69c1795d9c863f69"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbdDYExIf3o-EgjIZVoV-bCoco1PSDvf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40647434120-826svldhdhvd17483hgflci0p7s6gopm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
