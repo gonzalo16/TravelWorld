@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">TravelWorld</string>
+    <string name="loginEmail">Correo electrónico</string>
+    <string name="textNoTieneCuenta">¿Aún no tienes una cuenta? </string>
+    <string name="textCrearCuenta">Crear cuenta</string>
+    <string name="textContraseña">Contraseña</string>
+    <string name="textCorreoElectronico">Correo electrónico</string>
+    <string name="textInicioSesion">Iniciar sesión</string>
 </resources>

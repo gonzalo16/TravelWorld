@@ -9,7 +9,6 @@ public class Catalogo {
     private String Temporada;
     private int Precio;
 
-
     public Catalogo(int Codigo, String Destino, String Procedencia, String Temporada, int Precio) {
         this.Codigo=Codigo;
         this.Destino=Destino;
